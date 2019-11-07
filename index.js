@@ -11,7 +11,6 @@ function handleClick(e) {
 /* Write your implementation of displayMessage() */
  
  function greet(time) {
-   let splitTime = time.split(":");
-   let intTime = splitTime.parseInt();
+   let parsedTime = time.parseInt
    return intTime
  }
