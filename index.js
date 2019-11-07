@@ -16,3 +16,7 @@ function handleClick(e) {
    if (parsedTime > 17) return "Good Evening";
    else return "Good Afternoon";
  }
+ 
+ function displayMessage(string) {
+   document.
+ }
