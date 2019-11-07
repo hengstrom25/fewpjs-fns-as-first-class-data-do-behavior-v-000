@@ -18,5 +18,5 @@ function handleClick(e) {
  }
  
  function displayMessage(string) {
-   document.getElementById('greeting').innerHTML
+   document.getElementById('greeting').innerHTML = string
  }
