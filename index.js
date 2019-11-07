@@ -13,5 +13,5 @@ function handleClick(e) {
  function greet(time) {
    let splitTime = time.split(":");
    let intTime = splitTime.parseInt();
-   intTime
+   return intTime
  }
