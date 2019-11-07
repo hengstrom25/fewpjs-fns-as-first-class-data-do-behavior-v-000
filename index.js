@@ -11,6 +11,6 @@ function handleClick(e) {
 /* Write your implementation of displayMessage() */
  
  function greet(time) {
-   time.split()
+   time.split(":")
    
  }
